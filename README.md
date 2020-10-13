@@ -1,6 +1,6 @@
 # AI learning how to play games
 
-I tryied to program a computer learn how to play the game snake by itself for my end of high school project.
+I programed a computer to learn how to play the game snake by itself for my end of high school project.
 
 ## Concept
 
